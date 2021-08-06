@@ -1,0 +1,2 @@
+# GameDevAdda
+Game Developers adda is an event from Battery Low Interactive. The event was planned by the Managing Director of Battery Low Istiaque Ahmed and his team. In this adda every saturday on of the developers will have to present a new topic of Game Development and later on he or she will conduct a live coding session. Thus coding style and best practices can be shared among all the team members. During this session a constructive debate session happen to ensure the best practices.
